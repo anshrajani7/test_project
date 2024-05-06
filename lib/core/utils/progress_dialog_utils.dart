@@ -43,7 +43,7 @@ class ProgressDialogUtils {
         ),
         barrierDismissible: isCancellable,
       );
-      isProgressVisible = true;
+       isProgressVisible = true;
     }
   }
 
